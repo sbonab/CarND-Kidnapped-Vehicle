@@ -2,7 +2,7 @@
 
 In this project, I am utilizing a particle filter to localize a moving vehicle with noisy measurements with respect to map landmarks.
 The source file will work in connection to this [simulator](https://github.com/udacity/self-driving-car-sim/releases).
-You can find the visualization of the estimation performance in this [video](https://youtu.be/hVaVZWJ05Jw).
+You can find the visualization of the localization performance in this [video](https://youtu.be/hVaVZWJ05Jw).
 
 To successfully run the source code, you need to install [uWebSocketIO](https://github.com/uWebSockets/uWebSockets) on your machine. 
 
